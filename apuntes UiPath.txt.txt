@@ -1,0 +1,4 @@
+UIPath:
+    Robot: Servicio de windows que ejecuta
+    Orchestrator: Control y monitoreo, agendas
+    Studio: Desarrollo (drag and drop)
